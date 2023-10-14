@@ -1,0 +1,36 @@
+What does the client want the system to do?
+-Take advantage of a void market when it comes to training students for the driving test at their local DMV
+-Need for better driver training since so many people fail their driving test at the DMV
+-DriverPass provides this kind of training
+-Online classes/tests
+-On-the-road training provided per request
+-System that can access data online and offline (access data from any online device (phone/computer) and download it for use offline)
+-Security: Ian needs full access. Other access will be defined later
+-Tracking: Reservation status (made, changed, cancelled) with the ability to print an activity report for accountability
+-Reservations: 2 hours long, day and time, availble to be made online with their account or call/visit office to schedule. Also identification of driver to be scheduled with 
+customer for driver/car tracking purposes. Track which user is matched up with a certain driver, time, and car.
+-Packages (10 cars with a driver for each)
+	-Package One: Six hours in a car with a trainer
+	-Package Two: Eight hours in a car with a trainer and an in-person lesson where we explain the DMV rules and policies
+	-Package Three: Twelve horus in a car with a trainer, an in-person lesson where we explain the DMV rules and policies, plus access to our online class with
+all the content and material. The online class also includes practice tests.
+The system has to be flexible to allow for adjustments to packages.
+Ability to disable a package if they choose to no longer offer it.
+Registraction- first name, last name, address, phone number, state, CC#, exp date, security code, pickup location
+Online password reset for users.
+DMV interconnectability for access to new changes/policies
+Cloud based for security/backup reasons. Sole focus is the business.
+Asthetic - see picture
+
+Who will be the different users of the system?
+-Liam (boss)
+-Ian (IT officer) - maintaining and modifying the system
+-Secretary - answers phone and schedules appointments
+-User - make, cancel, and modify appointments online. Reset password online.
+
+What will each user need to be able to do?
+- Liam (boss) - data access (made/cancelled/changed appointments (also who did it), print reports, 
+- Ian (IT officer) - maintaining/modifying system, full access of all accoutns for password reset, block access for terminated employees
+- Secretary - make/cancel/change appointments
+- User - make/change/cancel appointments online. reset password
+- Drivers - ability to view appointments/pickup location, add notes to user profile following appointments
